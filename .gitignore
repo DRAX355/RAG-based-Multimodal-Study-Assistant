@@ -1,0 +1,4 @@
+.venv
+vaults
+__pycache__
+study_assistant.db
