@@ -254,9 +254,9 @@ class Orchestrator:
         return {**ret.info, **ans.info}
 
 # ---------------- Streamlit UI ----------------
-st.set_page_config(page_title="Multimodal Study Assistant (Improved)", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="Multimodal Study Assistant ", page_icon="🧠", layout="wide")
 
-st.title("🧠 Multimodal AI for Information Processing — Improved")
+st.title("🧠 Multimodal AI for Information Processing ")
 st.caption("Upload PDFs, Word, images, or handwriting → ask multi-turn questions → summaries, flashcards, quizzes, and TTS.")
 
 if not GROQ_API_KEY:

@@ -18,3 +18,4 @@ TTS==0.21.3
 gTTS
 faster-whisper
 python-multipart
+python-dotenv

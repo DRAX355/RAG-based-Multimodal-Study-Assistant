@@ -1,4 +1,7 @@
 .venv
+venv
+proj.zip
 vaults
 __pycache__
 study_assistant.db
+.env
